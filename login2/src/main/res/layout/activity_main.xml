@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#2196F3"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_width="match_parent">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_weight="0.5"
+            android:text="Back"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:drawableLeft="@drawable/iconback1"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:textSize="30sp"
+            android:textColor="#FFFFFF"
+            android:layout_weight="1"
+            android:text="Profile" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="0.5"
+            android:drawableRight="@drawable/iconsetting2"/>
+
+
+    </LinearLayout>
+
+<!--    <TextView-->
+<!--        android:text="Android"-->
+<!--        android:layout_weight="2"-->
+<!--        android:textSize="30sp"-->
+<!--        android:background="#f099"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp" />-->
+
+<!--    <TextView-->
+<!--        android:text="Android"-->
+<!--        android:layout_weight="4.5"-->
+<!--        android:textSize="30sp"-->
+<!--        android:background="#f099"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.5"
+        android:background="#2196F3"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageViewavata"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            app:srcCompat="@drawable/iconavata" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="Profile Name"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="#2196F3"
+        android:layout_weight="1.5"
+        android:layout_height="0dp"
+        android:layout_width="match_parent">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:textSize="30sp"
+            android:textColor="#FFFFFF"
+            android:layout_weight="0.75"
+            android:text="125 Friend" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:textSize="30sp"
+            android:textColor="#FFFFFF"
+            android:layout_weight="0.75"
+            android:text="250 Followers" />
+
+
+    </LinearLayout>
+
+
+
+
+<!--    <TextView-->
+<!--        android:text="Android"-->
+<!--        android:layout_weight="4.5"-->
+<!--        android:textSize="30sp"-->
+<!--        android:background="#f099"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="0dp" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Phone: +99 999 999 999"
+            android:textSize="20sp"
+            android:textColor="#2196F3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Zalo: TyronXXI"
+            android:textSize="20sp"
+            android:textColor="#2196F3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Web: abc.com"
+            android:textSize="20sp"
+            android:textColor="#2196F3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="email: mail@email.com"
+            android:textSize="20sp"
+            android:textColor="#2196F3" />
+
+    </LinearLayout>
+
+</LinearLayout>
