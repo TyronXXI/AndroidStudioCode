@@ -40,7 +40,8 @@ public class BaiHatAdapter extends BaseAdapter {
 
     private class ViewHolder{
         ImageView imgHinh;
-        TextView txtTen, txtMoTa;
+        TextView txtTen, txtMoTa, txtGia;
+
     }
 
     @Override
@@ -53,6 +54,7 @@ public class BaiHatAdapter extends BaseAdapter {
             holder.txtTen = (TextView) view.findViewById(R.id.textviewTen);
             holder.txtMoTa = (TextView) view.findViewById(R.id.textviewMoTa);
             holder.imgHinh = (ImageView) view.findViewById(R.id.imageviewHinh);
+            holder.txtGia = (TextView) view.findViewById(R.id.textviewGia);
 
             view.setTag(holder);
         }else {
@@ -64,6 +66,7 @@ public class BaiHatAdapter extends BaseAdapter {
         holder.txtTen.setText(baiHat.getTen());
         holder.txtMoTa.setText(baiHat.getMoTa());
         holder.imgHinh.setImageResource(baiHat.getHinh());
+        holder.txtGia.setText(baiHat.getGia());
 
 
         return view;

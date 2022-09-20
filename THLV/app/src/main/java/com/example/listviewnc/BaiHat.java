@@ -6,14 +6,16 @@ public class BaiHat {
     private String Ten;
     private String MoTa;
     private int Hinh;
+    private String Gia;
 
 
 
 
-    public BaiHat(String ten, String moTa, int hinh) {
+    public BaiHat(String ten, String moTa, int hinh, String gia) {
         Ten = ten;
         MoTa = moTa;
         Hinh = hinh;
+        Gia = gia;
 
 
     }
@@ -39,6 +41,12 @@ public class BaiHat {
     public void setHinh(int hinh) {
         Hinh = hinh;
     }
+
+    public String getGia() {
+        return Gia;
+    }
+
+    public void setGia(String gia) {Gia = gia;}
 
 
 
