@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Vì Anh Đâu Có Biết"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="
+Vì anh đâu có biết trái tim ngổn ngang\n
+Vì anh đâu có biết đúng sai ngỡ ngàng\n
+Vì anh luôn hối tiếc chiếc ôm dở dang\n
+Chìm trong đôi mắt biếc anh không thể mang\n
+Vì anh đâu có biết giấu đi thời gian\n
+Vì anh đâu có biết nắng mai đang tàn\n
+Vì anh luôn hối tiếc anh không thể mang\n
+Mùi hương trên mái tóc giữ theo câu chuyện đánh rơi\n
+\n
+Loay hoay lạc trong từng cơn mưa ngu ngơ bước theo nơi đôi bờ mi đón đưa\n
+Bâng khuâng chìm trong làn mây thưa, em ơi có rơi vào nhạt nhòa hay chưa?\n
+Hay khi ngày em vô tình rơi, chơi vơi cuốn theo con tim này đi khắp nơi\n
+Ngân nga lời ca còn buông lơi mang theo đắm say ngày nào còn trên môi\n
+\n
+Bởi vì anh bởi vì anh\n
+Bởi vì anh bởi vì anh ú u ù\n
+\n
+Em là mây trôi trong gió\n
+Anh là cây nhiều đắn đo\n
+Cành lá không còn xanh như giấc mơ của anh\n
+Rơi xuống, xuống đi tìm kiếm câu trả lời anh đánh rơi\n
+Vươn dài đôi tay ôm theo mây anh không có\n
+Khi ngày hôm nay còn lại gì ngoài lí do\n\n
+Nhìn áng mây mỏng manh, bay lướt qua thật nhanh\n
+Anh ngỡ ra rằng chính câu trả lời anh đánh rơi là\n
+\n
+
+Vì anh đâu có biết giấu đi thời gian\n
+Vì anh đâu có biết bởi vì anh đâu có hay\n
+Rằng chính anh chẳng có em" />
+
+</RelativeLayout>
+
+

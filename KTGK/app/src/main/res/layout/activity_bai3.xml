@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Bên Trên Tầng Lầu"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:text="
+Em ơi đừng khóc bóng tối trước mắt sẽ bắt em đi\n
+Em ơi đừng lo em ơi đừng cho tương lai vụt tắt.\n
+Sâu trong màu mắt có chút tiếc nuối phút cuối chỉ vì\n
+Em đâu hề sai em đâu thể mãi để trái tim đau\n
+\n
+Không còn tương lai, em cũng chẳng còn thương ai.\n
+Sau bao niêm đau em mong rằng con tim em dừng lại.\n
+Nỗi nhớ này lâu phai, nhốt em trong 1 lâu đài,\n
+Lâu đài của những cơn đau bất tận\n
+\n
+Vì sao em phải khóc?\n
+Có đáng để buồn đâu, tình yêu như cơn lốc thoáng phút chốc lướt qua thật mau.\n
+Vì sao em phải khóc?\n
+Có đáng để buồn đâu, rượu kề môi em nốc, thoáng phút chốc đã vơi u sầu\n
+\n
+Buông bàn tay để chấm hết,\n
+tất cả thứ làm em buồn,\n
+bao gồm cả cuộc đời của em.\n
+Em à cho dù có khóc,\n
+cũng sẽ đến ngày phải quên,\n
+thiên đường vẫn chờ ngày em đến\n
+\n
+Không còn tương lai, em cũng chẳng còn thương ai.\n
+Sau bao niêm đau em mong rằng con tim em dừng lại.\n
+Nỗi nhớ này lâu phai, nhốt em trong 1 lâu đài,\n
+Lâu đài của những cơn đau bất tận\n
+\n
+Vì sao em phải khóc?\n
+Có đáng để buồn đâu, tình yêu như cơn lốc thoáng phút chốc lướt qua thật mau.\n
+Vì sao em phải khóc?\n
+Có đáng để buồn đâu, rượu kề môi em nốc, thoáng phút chốc đã vơi u sầu\n" />
+
+</RelativeLayout>
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/email.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/forum.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/group_add.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/ic_wave.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/lock.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/person_24.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/phone.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/round_bg.xml" value="0.124" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/round_border.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/drawable/wave.xml" value="0.116" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai1.xml" value="0.2" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai10.xml" value="0.253125" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai11.xml" value="0.253125" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai12.xml" value="0.25416666666666665" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai13.xml" value="0.11197916666666667" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai14.xml" value="0.2694235588972431" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai2.xml" value="0.25416666666666665" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai3.xml" value="0.25416666666666665" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai4.xml" value="0.25416666666666665" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai5.xml" value="0.253125" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai6.xml" value="0.509765625" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai7.xml" value="0.253125" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai8.xml" value="0.253125" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_bai9.xml" value="0.509765625" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/baihat.xml" value="0.22" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/layoutbaihat.xml" value="0.17864583333333334" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/profile.xml" value="0.17864583333333334" />
+        <entry key="..\:/THLTTDTDD/KTGK/app/src/main/res/layout/signup.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

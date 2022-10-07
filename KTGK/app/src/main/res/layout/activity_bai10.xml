@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: vaicaunoicokhiennguoithaydoi"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="
+Thức thâu đêm để nghĩ suy về em nhiều\n
+Thật ra có những điều\n
+làm cho anh không yên được giấc\n
+Bấy lâu ta không nói nhau một câu nào\n
+Chờ dòng tin nhắn chào\n
+Trở lại cảm giác như lúc trước\n
+Có phải vì anh vẫn thường vô ý\n
+Chẳng suy nghĩ, vài lần khiến em u sầu\n
+Có phải vì anh trót vài câu nói\n
+Chạm vào nơi niềm đau mà người luôn chôn giấu\n
+Vài câu nói\n
+Có khiến người thay đổi\n
+Có khiến bờ môi ấm êm\n
+Nay chỉ còn trong nỗi nhớ\n
+Vài câu nói kéo đến màu u tối\n
+Cuốn hết bình yên lúc xưa bên cạnh nhau\n
+Mãi đi xa để mình ta trong căn phòng\n
+Ooh-ooh cùng nước mắt trong lòng\n
+Em à\n
+Phía cơn gió bỗng lướt qua cùng với bão tố\n
+Cuốn đi bóng dáng thướt tha\n
+Về đâu, em ơi? Vì sao, em ơi?\n\n
+Mà tình ta thêm vơi\n
+Giờ đây em ở đâu giữa mây trời\n
+Dưới góc phố mưa rơi hắt hiu\n
+Trùng thêm không gian\n
+Khiến nỗi nhớ em thêm nhiều\n
+Mình anh lang thang\n
+Tìm em nơi đâu\n
+Đường dài trôi miên man\n
+Mà không thấy người về nơi đây\n
+Có phải vì anh vẫn thường vô ý\n
+Chẳng suy nghĩ, vài lần khiến em u sầu\n
+Có phải vì anh trót vài câu nói\n
+Chạm vào nơi niềm đau mà người luôn chôn giấu\n
+Vài câu nói\n
+...
+" />
+
+</RelativeLayout>
+
+

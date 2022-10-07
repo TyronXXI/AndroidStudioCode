@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Một Ngàn Nỗi Đau"
+        android:textSize="18sp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="Anh, những lúc say em hay thường nghĩ...\n
+Nếu ngày xưa ấy, em đến sớm hơn thì sao?\n
+Chắc có lẽ ta đang vui với nhau\n
+Chắc có lẽ ta đang xây với nhau\n
+Một tình yêu, một giấc mơ\n
+Anh, đã mấy tháng trôi qua khi ta cách xa\n
+Đôi đường đôi ngả, giờ ta cũng sắp xa lạ...\n
+Mỗi đêm em nhớ về anh\n
+Vào lúc 11 giờ 11 phút\n
+Nhưng chắc anh chẳng nhớ em đâu\n
+Vì em vẫn chỉ là người đến sau\n
+Vẫn mang trong mình một ngàn nỗi đau\n
+Và có lẽ chắc giờ này, anh đang hạnh phúc bên người... oh oh...\n
+Vì em vẫn mãi là người đến sau\n
+Mãi mang trong mình một ngàn nỗi đau\n
+Mong anh sớm quên em - người anh đã từng yêu thương.\n
+Trong tình yêu có lẽ ai yêu hơn sẽ là người tổn thương nhiều hơn\n
+Sẽ lâu lành hơn cũng như mất nhiều năm hơn để quên đi.\n
+Nhưng vì do quá yêu nên càng hạnh phúc lại càng thấy nâng niu.\n
+Kỷ niệm em xin giữ, còn người hãy cứ đi đi...\n
+Vì sao anh nỡ làm tim em nát tan\n
+Đến đây vội vàng rồi lại dở dang\n
+Tình yêu cứ ngỡ dịu dàng\n
+Bỗng dưng lại hóa bẽ bàng\n
+Vì em vẫn mãi là người đến sau\n
+Mãi mang trong mình một ngàn nỗi đau\n
+Mong anh sớm quên em - người anh đã từng yêu thương." />
+
+</RelativeLayout>
+
+

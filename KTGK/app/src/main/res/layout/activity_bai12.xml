@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Chìm Sâu"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="Tại vì sao bao nhiêu lâu nay anh thì thầm thả gió cuốn bay đi\n
+Chạm vào môi đan vào tay của em ta đi chung bước với thời gian\n
+Một nụ hôn thay cho bao nụ hồng em có muốn ngay khi\n
+Ta vừa gặp nhau?\n
+You got me, got me chìm sâu (got me, got me chìm sâu)\n
+But I'm all go\n
+Baby, anh không muốn em phải buông lệ sầu hoen đôi chân mi\n
+You got me, got me chìm sâu (got me, got me chìm sâu)\n
+But I'm all go\n
+Anh chỉ mong em hạnh phúc trên cuộc đời này kể cả khi ta phân li\n
+My mind is a mess (my mind)\n
+Em đẹp từng cm\n
+Bae don't foolin' me (yeah)\n
+Em chỉ cần sayin' yes\n
+Bởi vì anh sẽ cố dẫn em vào tròng (sẽ dẫn em vào tròng)\n
+Nói hết những câu thật lòng (yeah, nói hết thật lòng)\n
+Smoke weed get high\n
+Mặc kệ bad vibe của last night\n
+Vì cho dù là còn thương\n
+Hay cho dù là đã quên\n
+Chỉ cần còn tình yêu là ta sẽ đến được thiên đường\n
+Mình quấn quýt vào nhau (vào nhau)\n
+Thật lâu (thật lâu)\n
+Rồi sẽ phải đến lúc em gật đầu\n
+You got me, got me chìm sâu (got me, got me chìm sâu)\n
+But I'm all go\n
+Baby, anh không muốn em phải buông lệ sầu hoen đôi chân mi\n
+You got me, got me chìm sâu (got me, got me chìm sâu)\n
+But I'm all go\n
+Anh chỉ mong em hạnh phúc trên cuộc đời này kể cả khi ta phân li\n
+...
+" />
+
+</RelativeLayout>
+
+

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Lời bài hát: Chậm Lại"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="Trời sắp sáng rồi, bao giấc mơ nay còn chưa tới\n
+Trời sắp tối rồi, em nhớ nhung ai bên mình\n
+\n
+Cuối con đường là những vết thương\n
+Kỉ niệm giấu đi còn không hết vấn vương\n
+Em ngồi giữa hi vọng và những câu chuyện trong đầu\n
+\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Để em thấy trong tim mình là ánh dương xuyên màn đêm\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Kìa đôi mắt em quay cuồng vì những lời yêu đầu\n
+\n
+Cuối con đường là những vết thương\n
+Kỉ niệm giấu đi còn không hết vấn vương\n
+Em ngồi giữa câu chuyện và những hi vọng trong đầu\n
+\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Để em thấy trong tim mình là ánh dương xuyên màn đêm\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Kìa đôi mắt em quay cuồng vì những lời yêu đầu\n
+\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Để em thấy trong tim mình là ánh dương xuyên màn đêm\n
+Chậm lại 1 phút thôi Chậm lại 1 giây thôi\n
+Kìa đôi mắt em quay cuồng\n
+(Kìa đôi mắt em quay cuồng)" />
+
+</RelativeLayout>
+
+

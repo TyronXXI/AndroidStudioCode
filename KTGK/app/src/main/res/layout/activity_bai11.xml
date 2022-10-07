@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: đứa nào làm em buồn?"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="
+Anh biết tay em còn bắt máy, tai em còn muốn nghe, đôi ta còn hi vọng\n
+Ném anh trăm lời quát mắng, vứt một lời chia tay, đừng tặng anh im lặng\n
+Anh không giỏi nhìn người yêu anh buồn, anh chỉ giỏi làm người yêu anh buồn thôi\n
+Bằng những lời anh cắn chặt mà môi hôn đắm nhất chẳng thể làm buột môi\n
+Mỗi khi em hỏi mai sau của chúng ta, xin lỗi anh luôn lờ đi thật vô tình\n
+Cứ coi nó như làn mi, treo ngay trước mắt nhưng vô hình\n
+Dù anh biết hạnh phúc của em muốn là hàng ngày tan ca ở nhà chờ đón anh\n
+Nhưng hạnh phúc của anh là thấy em hạnh phúc dù lúc đó là em chẳng có anh\n
+Xin em đừng nghĩ là anh không yêu em khi anh chẳng hứa tương lai mình tới đâu\n
+Thương em thì anh mới làm vậy bởi lời hứa và dối trá nó có họ với nhau\n
+Và em ơi dù ở trong tình yêu, anh không phải là kẻ tử tế nhất\n
+Nhưng anh chẳng đủ tệ để lấy cả thanh xuân của em mà không có thế chấp\n
+Em đang có đủ tất cả để thành hôn trừ một gã người yêu đủ gọi là thành đạt\n
+Lỡ em anh lỡ cả kho báu, lỡ anh em chỉ lỡ một canh bạc\n
+Nên anh chẳng hiểu nổi được lí do em còn ở đây sau bao ngày dài hao\n
+Anh chắc chắn là em còn yêu anh nhưng thứ anh không chắc duy nhất là tại sao?\n
+\n
+Đứa nào làm em buồn thế, nó yêu em nhưng nó tệ\n
+Không một lời nào hẹn hứa sau này sẽ đến đâu\n
+Không một nửa câu chắc chắn cho nhau\n
+Đứa mà làm em buồn ấy, sao mà em thích nó đến vậy\n
+Sao toàn làm em rơi nước mắt\n
+
+...
+
+" />
+
+</RelativeLayout>
+
+

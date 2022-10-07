@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: ThichThich"
+        android:textSize="18sp"
+
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:text="Em không được xinh đẹp, không hay cười duyên\n
+Chẳng biết làm sao cho trông thật ngoan hiền như bao cô ngoài kia\n
+Em đây nhìn cứ ngốc ngốc nghếch nghếch\n
+Lắm lúc đứng ngắm mình trong gương, cứ thấy choáng váng\n
+Nhưng mà anh ơi\n
+Em rất là vâng lời, không la cà ham chơi\n
+Em hồn nhiên, vô tư và yêu đời\n
+Nên anh này, mong anh không cười chê\n
+Nếu có thấy chán, em sẽ đến hát đàn anh nghe\n
+Dẫu sáng, dẫu tối, em sẽ đến bên cạnh anh thôi\n
+Anh sẽ thấy ngoài kia đấy bao cô gái như em\n
+Cũng cần tình yêu, cần được hiểu, cần một chút nuông chiều\n
+I don't wanna let you go, 'cause I know I love you so\n
+Vì cuộc đời chẳng có gì ý nghĩa khi mà không có anh\n
+Anh sẽ biết điều cần thiết là nắm lấy tay em\n
+Vì lúc này đây, em chỉ muốn gần bên anh mỗi ngày\n
+I don't wanna let you go, 'cause I know I love you so\n
+Và thật lòng em chỉ cần anh biết một điều duy nhất là\n
+Em thích anh\n
+(Và thật lòng em chỉ cần anh biết một điều duy nhất là)\n
+Sau bao ngày mong chờ\n
+Mong anh lại bên em ta cùng vui, xin anh đừng hững hờ\n
+Xa anh một giây thôi, trong lòng em đã thấy nhớ nhớ\n
+Chỉ muốn nhấc máy gọi cho anh, nhưng em chẳng dám\n
+Vì biết anh có nhớ đến em?\n
+(Just close your eyes)\n
+Anh sẽ thấy ngoài kia đấy bao cô gái như em\n
+Cũng cần tình yêu, cần được hiểu, cần một chút nuông chiều\n
+I don't wanna let you go, 'cause I know I love you so\n
+Vì cuộc đời chẳng có gì ý nghĩa khi mà không có anh\n
+Anh sẽ biết điều cần thiết là nắm lấy tay em\n
+Vì lúc này đây, em chỉ muốn gần bên anh mỗi ngày\n
+...
+" />
+
+</RelativeLayout>
+
+

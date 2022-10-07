@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <TextView
+        android:id="@+id/Lyric"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:text="Lời bài hát: Ngã Tư Không Đèn"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:id="@+id/Lyrc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Lyric"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+
+        android:text="Hẹn nhau lúc bốn giờ cà phê góc phố *** khi nắng ươm vàng\n
+Lòng em như một giấc chiêm bao vẫn đang dở dang\n
+Hẹn nhau lúc bốn giờ và anh luôn sớm hơn em không chút vội vàng\n
+Em sẽ nói vì phố quá đông khiến em thở than\n
+\n
+Tình yêu ta cứ như ngã tư không đèn\n
+Người lại qua chẳng thể biết ta nên dừng lại hay đi tiếp\n
+Cứ như thói *** ta thường nhìn nhau trong nghi vấn\n
+Tình yêu sao cứ như ngã tư không đèn\n
+\n
+Chẳng ai hay thế nên chúng ta thôi đừng bàn chuyện tương lai\n
+Cứ vui với nhau bây giờ cũng đâu có sai\n
+Hẹn nhau lúc bốn giờ nhiều khi chẳng để nói nhau câu gì\n
+\n
+Cùng nhau ngắm nhìn những lung linh cuối nơi hoàng hôn huh\n
+Và rồi tới chín giờ thì em cũng muốn anh đưa em tới nhà\n
+Ngập ngừng nơi hè phố vắng tanh anh có muốn" />
+
+</RelativeLayout>
+
+
